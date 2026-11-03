@@ -4,6 +4,8 @@ When someone steals a password, the login looks legitimate. This project looks a
 
 Built in Python on synthetic company logs with planted attacks, so every result can be checked against a known answer key.
 
+AI tools wrote the code for this project. I made the design decisions and reviewed the results.
+
 ## Results at a glance
 
 At a review budget of 3.75% of sessions (about 35 sessions over two weeks):
